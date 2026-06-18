@@ -11,7 +11,7 @@ Summary: BDD for pytest
 
 Development: https://github.com/pytest-dev/pytest-bdd
 
-Documentation: https://github.com/pytest-dev/pytest-bdd
+Documentation: https://pytest-bdd.readthedocs.io/
 
 pytest-bdd implements a subset of the Gherkin language to enable automating project requirements testing and to facilitate behavioral driven development.
 
